@@ -1,0 +1,7 @@
+id = "hell-pine"
+name = "Hell Pine"
+version = "1.0.0"
+schema_version = 1
+authors = ["ABX"]
+description = "A darker, higher-contrast take on Rosé Pine, born inside tmux."
+repository = "https://github.com/abxengg/hell-pine-zed"
