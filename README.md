@@ -2,7 +2,7 @@
 
 A darker, higher-contrast take on Rosé Pine, born inside tmux, for Zed.
 
-![Hell Pine in Neovim, the terminal and tmux](https://raw.githubusercontent.com/abxengg/hell-pine.nvim/main/assets/hero.png)
+
 
 ## Install
 
